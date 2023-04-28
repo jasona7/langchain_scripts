@@ -36,7 +36,7 @@ def sanitize_dataframe(df):
     return df
 
 # Read the CSV file(s)
-df2022_q4 = pd.read_csv('/home/ec2-user/llm/dol/h1b/LCA_Disclosure_Data_FY2022_Q4.csv')
+df2022_q4 = pd.read_csv('/llm/dol/h1b/LCA_Disclosure_Data_FY2022_Q4.csv')
 
 # Sanitize the dataframes
 df2022_q4 = sanitize_dataframe(df2022_q4)
