@@ -1,6 +1,6 @@
 # Langchain AI Python Scripts Repository 🔗🔗
 
-This repository hosts a collection of Python scripts that showcasing the growing end-to-end language model capabilities of the Langchain Project.  The Langchain Project represents a growing community of developers integrating AI LLMs and NLP to a quickly growing list of enterprise apps & platforms.   There are too many applications and use caes to list but some represented here are #hiring, #devSecOps, and #CyberSecurity.  please enjoy exploring. 
+This repository hosts a collection of Python scripts that showcasing the growing end-to-end language model capabilities of the Langchain Project.  The Langchain Project represents a growing community of developers integrating AI LLMs and NLP to a quickly growing list of enterprise apps & platforms.   There are too many applications and use caes to list but some represented here are #hiring, #devSecOps, and #CyberSecurity.  Please have a look and enjoy exploring. 
 
 https://github.com/hwchase17/langchain
 
